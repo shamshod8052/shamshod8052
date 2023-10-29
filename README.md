@@ -23,3 +23,20 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
+## 📊 Github stats
+<p>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=shamshod8052&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=#50C878&icon_color=F8D866"><img alt="shamshod8052's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=shamshod8052&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=#35B297&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shamshod8052&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=35B297&icon_color=F8D866">
+    <img alt="shamshod8052's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shamshod8052&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=#61DAFB&icon_color=F8D866" /></a>
+</p>
+
+<a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=shamshod8052&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+</a>
